@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7850f8a2-4ac8-4337-a3a0-c694f475d81b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fS6dKjfq9ud4VBItT5VAtkW3qQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7850f8a2-4ac8-4337-a3a0-c694f475d81b" name="Default Changelist" comment="" />
+      <created>1596199232777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596199232777</updated>
+      <workItem from="1596199234103" duration="306000" />
+      <workItem from="1596199577918" duration="17488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1335" y="97" key="CommitChangelistDialog2" timestamp="1596235046716">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1335" y="97" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596235046716" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596234446107">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596234446107" />
+    <state x="-1173" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1596234595847">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1173" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1596234595847" />
+  </component>
+</project>
